@@ -5,6 +5,6 @@
 ### List of colab projects made:
 #### Product Recommendation System
 #### Estimating Titanic Survivors 
-#### Data Visualization ML Project
+#### Computer Vision Project
+#### Chat Bot Using ChatGPT API
 #### 
-#### Data Visualization ML Project
